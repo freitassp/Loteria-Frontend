@@ -1,2 +1,2 @@
 # Loteria-Frontend
-Projeto desenvolvido com java e bootstrap com Professor Tiago Luz
+ Projeto desenvolvido em Java e Bootstrap - Professor Tiago luz
